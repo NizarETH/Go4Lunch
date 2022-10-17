@@ -1,0 +1,8 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê´
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ûç®äûÿÿÿÿ
+Q	java:S125K"<This block of commented-out lines of code should be removed.(Ñã¬½
+V	java:S125Q"<This block of commented-out lines of code should be removed.(×§ŠÕüÿÿÿÿ
+Q	java:S125V"<This block of commented-out lines of code should be removed.(ÇÛ™

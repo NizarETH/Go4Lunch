@@ -1,0 +1,19 @@
+
+>
+java:S1185("(Remove this method to simply inherit it.(öÿÕÅ
+P
+java:S1161(":Add the "@Override" annotation above this method signature(öÿÕÅ
+G
+java:S1602E",Remove useless curly braces around statement(Ä•ìùùÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(×î‘ªøÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(ãÉ¥
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(Å·ƒæ
+V	java:S125l"<This block of commented-out lines of code should be removed.(Ë®£øÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ù±ûÒúÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(¾ã˜”
+W	java:S125™"<This block of commented-out lines of code should be removed.( òéÿüÿÿÿÿ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(ØëÔÊ
+A
+java:S1068"+Remove this unused "utility" private field.(Š©ºÍ
+F
+java:S1144@"0Remove this unused private "getBaseList" method.(¸†Ü¬

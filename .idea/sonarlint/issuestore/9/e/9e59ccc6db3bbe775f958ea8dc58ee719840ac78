@@ -1,0 +1,15 @@
+
+D
+java:S1604…"(Make this anonymous inner class a lambda(ÜâïÙüÿÿÿÿ
+r
+java:S1488]"\Immediately return this expression instead of assigning it to the temporary variable "view".(Ë—Ò†
+Q	java:S125C"<This block of commented-out lines of code should be removed.(íÛ«¦
+>
+java:S1185T"(Remove this method to simply inherit it.(ßìê¯
+V	java:S125f"<This block of commented-out lines of code should be removed.(‡ÎÏæøÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.( Ï°•ıÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(ãäùúÿÿÿÿ
+=
+java:S1068A"'Remove this unused "TAG" private field.(¯“‡¬
+C
+java:S1068D"-Remove this unused "userGoing" private field.(ç§Å–

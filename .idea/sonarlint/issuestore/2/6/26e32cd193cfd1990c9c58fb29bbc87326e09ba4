@@ -1,0 +1,12 @@
+
+n
+java:S2637l"S"chosenRestaurant" is marked "@NonNull" but is not initialized in this constructor.(ùìŠÓúÿÿÿÿ
+b
+java:S2637:"F"uid" is marked "@NonNull" but is not initialized in this constructor.(Ù¶8–†ş÷¦0
+u
+java:S2637="S"chosenRestaurant" is marked "@NonNull" but is not initialized in this constructor.(êÒÎÙşÿÿÿÿ8ºıÈÒ§0
+p
+java:S2637)"S"chosenRestaurant" is marked "@NonNull" but is not initialized in this constructor.(ëñóƒ8Û²ËÒ§0
+p
+java:S2637t"S"chosenRestaurant" is marked "@NonNull" but is not initialized in this constructor.(ßÔ¼8Û²ËÒ§0
+p	java:S116"[Rename this field "RestaurantChoice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÀğş
