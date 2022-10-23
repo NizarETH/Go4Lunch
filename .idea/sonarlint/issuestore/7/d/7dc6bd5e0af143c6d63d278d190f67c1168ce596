@@ -1,0 +1,62 @@
+
+w
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(µØü‹8ŞÑÅ»¾0
+K
+java:S1604Ğ"(Make this anonymous inner class a lambda(ÚßÓùÿÿÿÿ8âÑÅ»¾0
+?
+java:S1604„"(Make this anonymous inner class a lambda(²™æê
+g
+java:S1301©"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+~	java:S116X"]Rename this field "GOOGLE_MAP_API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÂ¸®üÿÿÿÿ8²ÖÅ»¾0
+u	java:S116e"TRename this field "Singleton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ä· ÿÿÿÿÿ8²ÖÅ»¾0
+
+java:S3008d"dRename this field "AUTOCOMPLETE_REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çã¾ï8²ÖÅ»¾0
+C
+java:S1170X"!Make this final field static too.(øÂ¸®üÿÿÿÿ8ˆ×Å»¾0
+]
+java:S1854n"@Remove this useless assignment to local variable "placesClient".(ãï¦Û8×Å»¾0
+N
+java:S1481n"1Remove this unused "placesClient" local variable.(ãï¦Û8¡×Å»¾0
+]	java:S125q"<This block of commented-out lines of code should be removed.(Æ÷Óşøÿÿÿÿ8¢×Å»¾0
+U
+java:S1135’"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ8Ä×Å»¾0
+J
+java:S1602œ",Remove useless curly braces around statement(€„Ç€8Å×Å»¾0
+R	java:S125½"<This block of commented-out lines of code should be removed.(ö¯ì
+8	java:S131Ù""Add a default case to this switch.(¿›İ”
+q
+java:S3923—"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¤š‡x
+2
+java:S3626Ç"Remove this redundant jump.(ûÁİ…
+A
+java:S1197§"*Move the array designators [] to the type.(¯ÜÑñ
+=	java:S131©""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Q	java:S125¾"<This block of commented-out lines of code should be removed.(§äÁ=
+L
+java:S1068H"/Remove this unused "mapFragment" private field.(ßàÎù8¸ÙÅ»¾0
+M
+java:S1068I"0Remove this unused "listFragment" private field.(¦Å»é8¹ÙÅ»¾0
+Q
+java:S1068R"/Remove this unused "predictions" private field.(­ÕÏØøÿÿÿÿ8¹ÙÅ»¾0
+Y
+java:S1068S"7Remove this unused "fusedLocationClient" private field.(®¿é‚ıÿÿÿÿ8»ÙÅ»¾0
+Q
+java:S1068T"5Remove this unused "restaurantAdapter" private field.(¦58ÇÙÅ»¾0
+R
+java:S1068U"0Remove this unused "recyclerView" private field.(¿á© ıÿÿÿÿ8ÉÙÅ»¾0
+L
+java:S1068V"/Remove this unused "application" private field.(Õ€ì8ÊÙÅ»¾0
+Y
+java:S1068Z"7Remove this unused "mSearchAutocomplete" private field.(”•ô‘ÿÿÿÿÿ8ËÙÅ»¾0
+J
+java:S1068["-Remove this unused "mPosition" private field.(Ù•½™8ËÙÅ»¾0
+J
+java:S1068b"-Remove this unused "fragment1" private field.(ŠÜ€÷8ÌÙÅ»¾0
+H
+java:S1068c"&Remove this unused "fm" private field.(©Îüøÿÿÿÿ8ÌÙÅ»¾0
+Z
+java:S1068d"=Remove this unused "AUTOCOMPLETE_REQUEST_CODE" private field.(çã¾ï8ÎÙÅ»¾0
+O
+java:S1068e"-Remove this unused "Singleton" private field.(¶ä· ÿÿÿÿÿ8ÏÙÅ»¾0
+W
+java:S1144¦"9Remove this unused private "updateUIWithUserData" method.(Ê¨¦æ8ĞÙÅ»¾0
